@@ -1,0 +1,7 @@
+C:\Stash\AvivaDigital\FizzBuzzConsole\fizzbuzz\src\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Stash\AvivaDigital\FizzBuzzConsole\fizzbuzz\src\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Stash\AvivaDigital\FizzBuzzConsole\fizzbuzz\src\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Stash\AvivaDigital\FizzBuzzConsole\fizzbuzz\src\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Stash\AvivaDigital\FizzBuzzConsole\fizzbuzz\src\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Stash\AvivaDigital\FizzBuzzConsole\fizzbuzz\src\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Stash\AvivaDigital\FizzBuzzConsole\fizzbuzz\src\FizzBuzz\obj\Debug\FizzBuzz.csproj.AssemblyReference.cache
